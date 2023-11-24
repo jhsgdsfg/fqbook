@@ -9,7 +9,7 @@ from loguru import logger
 
 BASE_URL = 'https://fqbook.cc'
 URL = 'https://fqbook.cc/read-318596.html'
-TXT = open('txt/纯爱后宫港区.txt', 'w', encoding='utf-8')
+TXT = open('txt/纯爱后宫港区_UTF8.txt', 'w', encoding='utf-8')
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36'
 }
